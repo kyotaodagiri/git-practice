@@ -6,4 +6,4 @@
 
 no-fast-forward
 
-main
+conflict
