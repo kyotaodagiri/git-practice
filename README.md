@@ -5,3 +5,5 @@
 ローカルリポジトリでマージする
 
 no-fast-forward
+
+main
