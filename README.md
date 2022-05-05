@@ -7,3 +7,5 @@
 no-fast-forward
 
 conflict
+
+Github上で更新
