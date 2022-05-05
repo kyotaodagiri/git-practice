@@ -10,4 +10,4 @@ conflict
 
 Github上で更新
 
-編集
+conflict発生
